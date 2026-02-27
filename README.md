@@ -41,9 +41,8 @@
 
 ### 🐱 GitHub Trophy (Danh hiệu)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lznguyn&theme=radical&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lznguyn&show_icons=true&theme=radical&count_private=true" alt="lznguyn GitHub Stats" />
 </p>
-
 ---
 
 ### 📈 Hoạt động gần đây
