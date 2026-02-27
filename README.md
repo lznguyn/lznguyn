@@ -41,7 +41,7 @@
 
 ### 🐱 GitHub Trophy (Danh hiệu)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lznguyn&theme=radical&column=7" />
 </p>
 
 ---
