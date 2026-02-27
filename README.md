@@ -41,9 +41,8 @@
 
 ### 🐱 GitHub Trophy (Danh hiệu)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lznguyn&show_icons=true&theme=radical&count_private=true" alt="lznguyn GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lznguyn&theme=dracula&column=7&margin-w=15" />
 </p>
----
 
 ### 📈 Hoạt động gần đây
 - 🚀 Đang phát triển dự án **Hệ thống số hóa** - Số hóa giấy tờ 
